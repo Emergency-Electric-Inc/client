@@ -10,8 +10,7 @@ const useStyles = makeStyles(theme => ({
         display: "flex"
     },
     title: {
-        flexGrow: 1,
-        textTransform: "uppercase"
+        flexGrow: 1
     },
     menuButton: {
         marginRight: theme.spacing(2)
@@ -31,7 +30,7 @@ function MainNavigation() {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant='h6' className={classes.title}>
-                        Emergency Electric Inc
+                        Emergency Electric INC
                     </Typography>
                     <Button color='inherit'>Login</Button>
                 </Toolbar>
