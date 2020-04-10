@@ -1,5 +1,5 @@
 import React from 'react';
-import {StyledFooter, StyledContainer, StyledGrid, StyledSpace, StyledTypography} from "../../styles/landing-page/landingPageStyles";
+import {StyledFooter, StyledContainer, StyledGrid, StyledSpace, StyledTypography} from "../../../styles/landing-page/landingPageStyles";
 import {Grid, Typography} from "@material-ui/core";
 
 function Footer() {

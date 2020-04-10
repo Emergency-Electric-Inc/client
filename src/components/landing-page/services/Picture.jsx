@@ -1,5 +1,5 @@
 import React from 'react';
-import {Image, StyledTypography} from "../../styles/landing-page/landingPageStyles";
+import {Image, StyledTypography} from "../../../styles/landing-page/landingPageStyles";
 
 function Picture({picture, title, summary}) {
     return (

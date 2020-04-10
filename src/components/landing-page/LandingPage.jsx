@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from "./Header";
-import About from './About';
-import Services from "./Services";
-import Testimonials from "./Testimonials";
-import Goals from "./Goals";
-import Contact from "./Contact";
-import Footer from "./Footer";
+import Header from "./header/Header";
+import About from './about/About';
+import Services from "./services/Services";
+import Testimonials from "./testimonials/Testimonials";
+import Goals from "./goals/Goals";
+import Contact from "./contact/Contact";
+import Footer from "./footer/Footer";
 
 function LandingPage() {
     return (

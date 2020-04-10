@@ -1,6 +1,6 @@
 import React from 'react';
-import {LandingPageSection, StyledContainer, StyledTypography} from "../../styles/landing-page/landingPageStyles";
-import Buttons from './Buttons';
+import {LandingPageSection, StyledContainer, StyledTypography} from "../../../styles/landing-page/landingPageStyles";
+import Buttons from '../shared/Buttons';
 
 function About() {
     return (

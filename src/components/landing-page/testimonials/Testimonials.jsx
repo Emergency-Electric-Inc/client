@@ -1,8 +1,8 @@
 import React from 'react';
 import {Grid} from "@material-ui/core";
-import {LandingPageSection, StyledContainer, StyledTypography} from "../../styles/landing-page/landingPageStyles";
+import {LandingPageSection, StyledContainer, StyledTypography} from "../../../styles/landing-page/landingPageStyles";
 import Testimonial from "./Testimonial";
-import Buttons from './Buttons'
+import Buttons from '../shared/Buttons'
 
 function Testimonials() {
     return (

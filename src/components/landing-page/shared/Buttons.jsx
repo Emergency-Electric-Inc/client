@@ -2,7 +2,7 @@ import React from 'react';
 import {Button, IconButton} from "@material-ui/core";
 import Scrollchor from 'react-scrollchor';
 import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward';
-import {ButtonContainer} from "../../styles/landing-page/landingPageStyles";
+import {ButtonContainer} from "../../../styles/landing-page/landingPageStyles";
 
 function Buttons({color, link, desc}) {
     return (

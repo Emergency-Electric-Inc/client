@@ -1,5 +1,5 @@
 import React from 'react';
-import {StyledPaper, StyledTypography} from "../../styles/landing-page/landingPageStyles";
+import {StyledPaper, StyledTypography} from "../../../styles/landing-page/landingPageStyles";
 
 function Testimonial({summary, author}) {
     return (

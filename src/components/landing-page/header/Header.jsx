@@ -1,5 +1,5 @@
 import React from 'react';
-import {LandingPageSection, StyledContainer, StyledTypography} from '../../styles/landing-page/landingPageStyles';
+import {LandingPageSection, StyledContainer, StyledTypography} from '../../../styles/landing-page/landingPageStyles';
 import {Button} from '@material-ui/core';
 
 function Header() {

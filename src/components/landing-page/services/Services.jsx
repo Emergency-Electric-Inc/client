@@ -1,9 +1,9 @@
 import React from 'react';
 import {Grid} from '@material-ui/core';
-import {LandingPageSection, StyledContainer, StyledTypography} from "../../styles/landing-page/landingPageStyles";
-import Buttons from './Buttons';
-import residential from '../../assets/erik-mclean-1117932-unsplash.jpg';
-import commercial from '../../assets/osama-saeed-1433239-unsplash.jpg';
+import {LandingPageSection, StyledContainer, StyledTypography} from "../../../styles/landing-page/landingPageStyles";
+import Buttons from '../shared/Buttons';
+import residential from '../../../assets/erik-mclean-1117932-unsplash.jpg';
+import commercial from '../../../assets/osama-saeed-1433239-unsplash.jpg';
 import Picture from "./Picture";
 
 function Services() {

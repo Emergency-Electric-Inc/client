@@ -1,6 +1,6 @@
 import React from 'react';
-import {LandingPageSection, StyledTypography, StyledContainer} from "../../styles/landing-page/landingPageStyles";
-import Buttons from "./Buttons";
+import {LandingPageSection, StyledTypography, StyledContainer} from "../../../styles/landing-page/landingPageStyles";
+import Buttons from "../shared/Buttons";
 
 function Goals() {
     return (

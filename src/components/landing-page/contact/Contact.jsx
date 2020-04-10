@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {useForm} from "../../hooks/useForm";
+import {useForm} from "../../../hooks/useForm";
 import {
     ButtonContainer,
     Form,
@@ -8,7 +8,7 @@ import {
     StyledPaper,
     StyledTextField,
     StyledTypography
-} from "../../styles/landing-page/landingPageStyles";
+} from "../../../styles/landing-page/landingPageStyles";
 import {Button, Grid, IconButton} from "@material-ui/core";
 import Scrollchor from 'react-scrollchor'
 import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward'
