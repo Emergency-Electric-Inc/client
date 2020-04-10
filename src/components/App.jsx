@@ -3,6 +3,7 @@ import {CssBaseline, Typography} from "@material-ui/core";
 import {MuiThemeProvider, StylesProvider} from "@material-ui/core";
 import theme from "../styles/theme/theme";
 import MainNavigation from "./navigation/Navigation";
+import LandingPage from "./landing-page/LandingPage";
 
 function App() {
     return (
@@ -10,7 +11,7 @@ function App() {
             <MuiThemeProvider theme={theme}>
                 <CssBaseline/>
                 <MainNavigation />
-                <Typography variant='h3' component='h1'>Hello World</Typography>
+                <LandingPage />
             </MuiThemeProvider>
         </StylesProvider>
     )
