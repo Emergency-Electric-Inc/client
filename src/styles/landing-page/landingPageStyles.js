@@ -53,7 +53,7 @@ export const StyledContainer = styled(Container)`
     `}
     
     ${props => props.description && css`
-        width: 83%;
+        width: 90%;
     `}
 `;
 
@@ -112,4 +112,15 @@ export const ButtonContainer = styled.div`
     justify-content: flex-end;
     align-items: center;
   `}
+`;
+
+export const Form = styled.form`
+    display: flex;
+    flex-direction: column;
+    margin: 16px 0;
+`;
+
+export const StyledTextField = styled(TextField)`
+    width: 100%;
+    padding-right: 16px;
 `;

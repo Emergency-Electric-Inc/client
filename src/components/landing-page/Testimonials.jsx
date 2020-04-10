@@ -10,9 +10,9 @@ function Testimonials() {
             <StyledContainer maxWidth='lg'>
                 <StyledTypography variant='h4'>Testimonials</StyledTypography>
                 <StyledTypography variant='h2'>Hear from our customers</StyledTypography>
-                <Grid container>
+                <Grid container spacing={2}>
                     <Grid item xs={0} sm/>
-                    <Grid item xs={0} sm={5}>
+                    <Grid item xs={12} sm={5}>
                         <Testimonial
                             author='John Robertson'
                             summary='They do very good electrical work. They are friendly,
@@ -23,7 +23,7 @@ function Testimonials() {
                         />
                     </Grid>
                     <Grid item xs={0} sm/>
-                    <Grid item xs={0} sm={5}>
+                    <Grid item xs={12} sm={5}>
                         <Testimonial
                             author='Arlene W.'
                             summary='They were very efficient, prompt and courteous. They even did a
@@ -33,7 +33,7 @@ function Testimonials() {
                     </Grid>
                     <Grid item xs={0} sm/>
                 </Grid>
-                <Buttons color='primary' desc='Our Goals' link='#goals' />
+                <Buttons color='primary' desc='Our Goals' link='#goals'/>
             </StyledContainer>
         </LandingPageSection>
     )
