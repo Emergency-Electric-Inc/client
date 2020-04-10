@@ -56,7 +56,7 @@ function Contact() {
 
     return (
         <>
-            <LandingPageSection>
+            <LandingPageSection id='contact'>
                 <StyledContainer maxWidth='lg' description>
                     <StyledPaper>
                         <StyledTypography variant='h4'>Contact Us</StyledTypography>

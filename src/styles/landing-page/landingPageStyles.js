@@ -124,3 +124,19 @@ export const StyledTextField = styled(TextField)`
     width: 100%;
     padding-right: 16px;
 `;
+
+export const StyledFooter = styled.footer`
+    ${props => props.inverted && css`
+        padding: 32px 0 0;
+        background-color: #222222;
+        color: #b48a66;
+    `}
+`;
+
+export const StyledGrid = styled(Grid)`
+    margin-bottom: 16px;
+`;
+
+export const StyledSpace = styled.div`
+    margin: 16px 0;
+`;

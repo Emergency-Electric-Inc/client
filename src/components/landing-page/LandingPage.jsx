@@ -5,6 +5,7 @@ import Services from "./Services";
 import Testimonials from "./Testimonials";
 import Goals from "./Goals";
 import Contact from "./Contact";
+import Footer from "./Footer";
 
 function LandingPage() {
     return (
@@ -15,6 +16,7 @@ function LandingPage() {
             <Testimonials />
             <Goals />
             <Contact />
+            <Footer />
         </>
     )
 }
