@@ -11,14 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a178664e-ed4d-4ce9-966e-2ef0ddbfe31a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/landing-page/About.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing-page/Buttons.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing-page/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/landing-page/LandingPage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing-page/Picture.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing-page/Services.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing-page/Testimonial.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/landing-page/Testimonials.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landing-page/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landing-page/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/landing-page/LandingPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/landing-page/LandingPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/landing-page/landingPageStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/landing-page/landingPageStyles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586453628283</updated>
       <workItem from="1586453629458" duration="11967000" />
-      <workItem from="1586496535825" duration="2362000" />
+      <workItem from="1586496535825" duration="4417000" />
     </task>
     <servers />
   </component>

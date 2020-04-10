@@ -4,12 +4,8 @@ import {Button, Container, Grid, Paper, TextField, Typography} from "@material-u
 
 export const LandingPageSection = styled.section`
     padding: 8rem 0;
-    h2 {
-        font-size: 3rem;
-    }
-    
-    h3 {
-        font-size: 1.5rem;
+        
+    h4 {
         text-transform: uppercase;
     }
     
@@ -62,7 +58,7 @@ export const StyledContainer = styled(Container)`
 `;
 
 export const StyledTypography = styled(Typography)`
-    margin-bottom: 24px;
+    margin-bottom: 16px;
     
     ${props => props.header && css`
         font-weight: bolder;
